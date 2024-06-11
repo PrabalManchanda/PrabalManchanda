@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Custom printing Responsive WebPage**
 
-- 👨‍💻 All of my projects are available at [https://prabalmanchanda.com/](https://prabalmanchanda.com/)
+- 👨‍💻 All of my projects are available at [https://prabalmanchanda.vercel/](https://prabalmanchanda.vercel.app/)
 
 - 💬 Ask me about **Node, Angular, Java, Python, Azure, OpenAI,MySQL**
 
