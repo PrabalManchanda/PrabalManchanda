@@ -1,4 +1,4 @@
-Here's a highly organized and attractive README for your GitHub profile, featuring your contributions and achievements:
+Here's an enhanced version of your README with the addition of a "Total Contributions" and "Streaks" column:
 
 ---
 
@@ -113,4 +113,7 @@ Here's a highly organized and attractive README for your GitHub profile, featuri
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   </a>
-  <a href
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net
