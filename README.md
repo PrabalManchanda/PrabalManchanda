@@ -6,7 +6,7 @@ Here is an updated README with an attractive header and well-organized sections:
 <h3 align="center">Full-Stack Software Developer designing and coding high-end products. My passion lies in creating innovative solutions that cater to the needs of clients and users.</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/123456789/1234567890.png" alt="Masterhead" width="800" />
+  <img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" alt="Masterhead" width="800" />
 </p>
 
 - 🔭 I’m currently working on [Portfolio Builder](https://github.com/Prabal31/Portfolio-Builder)
