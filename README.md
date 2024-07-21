@@ -46,9 +46,6 @@ Here's a highly organized and attractive README for your GitHub profile, featuri
   <a href="https://github.com/Prabal31" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="mailto:manchandaprabal878@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
-  </a>
 </p>
 
 ### 🛠️ Languages and Tools
