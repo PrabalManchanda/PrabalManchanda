@@ -9,9 +9,6 @@ Here is an updated README with an attractive header and well-organized sections:
   <img src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif" alt="Masterhead" width="1000" />
 </p>
 
-- 🔭 I’m currently working on [Portfolio Builder](https://github.com/Prabal31/Portfolio-Builder)
-
-- 🌱 I’m currently learning **.Net framework**
 
 - 👯 I’m looking to collaborate on **Custom printing Responsive WebPage**
 
@@ -20,8 +17,6 @@ Here is an updated README with an attractive header and well-organized sections:
 - 💬 Ask me about **Node, Angular, Java, Python, Azure, OpenAI, MySQL**
 
 - 📫 How to reach me **manchandaprabal878@gmail.com**
-
-- 📄 Know about my experiences [https://prabalmanchanda.com/resume/](https://prabalmanchanda.com/resume/)
 
 - ⚡ Fun fact **I design and code beautifully simple things, and I love doing it.**
 
