@@ -1,7 +1,3 @@
-Here's an enhanced version of your README with the addition of a "Total Contributions" and "Streaks" column:
-
----
-
 <h1 align="center">Hi 👋, I'm Prabal Manchanda</h1>
 <h3 align="center">Full-Stack Software Developer designing and coding high-end products. My passion lies in creating innovative solutions that cater to the needs of clients and users.</h3>
 
