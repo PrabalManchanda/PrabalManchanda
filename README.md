@@ -17,13 +17,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Online Custom Printing website](https://github.com/Prabal31/)
-
-- 🌱 I’m currently learning **.Net framework**
-
 - 👨‍💻 All of my projects are available at [https://prabalmanchanda.vercel.app/](https://prabalmanchanda.vercel.app/)
-
-- 💬 Ask me about **Node, Angular, Java, Python, Azure, OpenAI,MySQL**
 
 - 📫 How to reach me **manchandaprabal878@gmail.com**
 
