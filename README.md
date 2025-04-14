@@ -4,7 +4,7 @@
 [![MasterHead](https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif)](https://prabalmanchanda.vercel.app/)
 
 <p align="center">
-  <a href="https://prabalmanchanda.vercel.app/" target="_blank">
+  <a href="https://prabalmanchanda.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green" alt="Portfolio Badge" />
   </a>
   <a href="https://www.linkedin.com/in/prabal-manchanda/" target="_blank">
@@ -17,9 +17,9 @@
 
 ---
 
-- 👨‍💻 All of my projects are available at [https://prabalmanchanda.vercel.app/](https://prabalmanchanda.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://prabalmanchanda.com/](https://prabalmanchanda.com/)
 
-- 📫 How to reach me **manchandaprabal878@gmail.com**
+- 📫 How to reach me **prabalmanchanda10@gmail.com**
 
 - ⚡ Fun fact **I design and code beautifully simple things, and I love doing it.**
 
