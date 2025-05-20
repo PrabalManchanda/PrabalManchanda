@@ -50,8 +50,7 @@ fun_fact: "My code editor is my paintbrush."
 <!-- GitHub Stats -->
 <p align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrabalManchanda&theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabalManchanda&theme=tokyonight&hide_border=true" width="67%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrabalManchanda&theme=tokyonight&hide_border=true" width="67%" />
 
 </p>
 
